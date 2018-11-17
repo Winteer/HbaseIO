@@ -14,6 +14,13 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Hbase 读写Demo
+ * @ClassName HbaseClient
+ * @Description TODO
+ * @Author Winter
+ * @Date 2018/11/17 17:52
+ **/
 public class HbaseClient {
     public static final String TABLE = "xingoo:test_v";
 
